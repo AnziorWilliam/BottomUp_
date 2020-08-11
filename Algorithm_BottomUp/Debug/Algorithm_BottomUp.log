@@ -1,0 +1,3 @@
+﻿  BottomUp.cpp
+S:\WorkCoding_St807\Simply_Alogorithm\BottomUp_\Algorithm_BottomUp\BottomUp.cpp(43,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Algorithm_BottomUp.vcxproj -> S:\WorkCoding_St807\Simply_Alogorithm\BottomUp_\Algorithm_BottomUp\Debug\Algorithm_BottomUp.exe
